@@ -60,7 +60,7 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton("❰𝙂𝙧𝙤𝙪𝙥❱", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "❰𝙂𝙞𝙩𝙍𝙚𝙥𝙤❱ ",
-                        url="https://github.com/MrProgrammer72/GJ516Music",
+                        url="https://t.me/ZADKIEL_NETWORK",
                     ),
                 ],
             ]
