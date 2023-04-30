@@ -33,8 +33,8 @@ close_key = InlineKeyboardMarkup(
 buttons = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="❰𝙊𝙬𝙣𝙚𝙧❱", User_id=config.OWNER_ID),
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", Url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="❰𝙊𝙬𝙣𝙚𝙧❱", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=config.SUPPORT_CHAT),
             
         ]
     ]
@@ -45,7 +45,7 @@ jaybuttons = InlineKeyboardMarkup(
     [
          [
 
-InlineKeyboardButton(text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/export_gabbar"),
+InlineKeyboardButton(text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/zadkiel_z"),
 
 InlineKeyboardButton (text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/GJ516_DISCUSS_GROUP"),
 
