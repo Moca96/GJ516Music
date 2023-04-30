@@ -33,7 +33,7 @@ close_key = InlineKeyboardMarkup(
 buttons = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="❰𝙊𝙬𝙣𝙚𝙧❱",User_id=config.OWNER_ID),
+            InlineKeyboardButton(text="❰𝙊𝙬𝙣𝙚𝙧❱", User_id=config.OWNER_ID),
             InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", Url=config.SUPPORT_CHAT),
             
         ]
